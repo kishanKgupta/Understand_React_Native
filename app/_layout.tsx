@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   text: {
-    fontSize: 30, // Apply fontSize here instead of View
+    fontSize: 20, // Apply fontSize here instead of View
   },
 });
 
